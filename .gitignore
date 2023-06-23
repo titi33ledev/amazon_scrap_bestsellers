@@ -1,0 +1,3 @@
+env/lib/python3.9/site-packages/scipy/.dylibs/libopenblas.0.dylib
+env/lib/python3.9/site-packages/numpy/.dylibs/libopenblas64_.0.dylib
+env/lib/python3.9/site-packages/kaleido/executable/bin/kaleido
